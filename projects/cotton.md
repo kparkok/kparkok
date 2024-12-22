@@ -7,7 +7,7 @@ date: 2014
 published: true
 labels:
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A group project for ICS 314"
 ---
 UH Manoa Ride Share is a web application designed to address a critical challenge faced by UH Manoa students: the difficulties of campus commuting. With limited, expensive parking and sometimes inconvenient public transportation options, many students resort to driving alone, contributing to increased traffic, higher transportation costs, and elevated carbon emissions.
 
