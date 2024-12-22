@@ -1,10 +1,9 @@
 ---
 layout: project
 type: project
-image: img/IMG_0302.jpeg
 title: "First Project"
 date: 2024
-published: true
+published: false
 labels:
   - Robotics
   - Arduino
