@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/IMG_0302.jpeg
-title: "Cotton"
+title: "UH Manoa Ride Share"
 date: 2014
 published: true
 labels:
