@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/IMG_0302.jpeg
 title: "UH Manoa Ride Share"
-date: 2014
+date: 2024
 published: true
 labels:
   - GitHub
