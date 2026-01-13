@@ -3,7 +3,7 @@
 For details on this professional portfolio, please see https://techfolios.github.io.
 
 # 💫 About Me:
-Aloha! <br><br>I'm a Computer Science student at the University of Hawaii at Manoa (graduating Spring 2026) and Software Developer at Manoa Now, where I build solutions serving 20,000+ university users. 
+Aloha! <br><br>I'm a Computer Science student at the University of Hawaii at Manoa (graduating Spring 2026) and Software Developer at Manoa Now, where I build solutions serving 20,000+ community users. 
 <br><br>
 I'm passionate about creating technology that connects and empowers my community.
 
